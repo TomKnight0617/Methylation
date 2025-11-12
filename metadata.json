@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Methylation Data Analyzer",
+  "description": "An interactive tool to analyze and visualize methylation level data. Upload a TSV file to see the distribution of methylation percentages across predefined sample groups, processed efficiently using web workers.",
+  "requestFramePermissions": []
+}
